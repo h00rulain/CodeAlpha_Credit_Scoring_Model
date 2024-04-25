@@ -1,0 +1,1 @@
+Developed a credit scoring model to predict the creditworthiness of individuals based on historical financial data. Utilized Random Forest classification algorithms and assessed the model's performance using Accuracy, Precision, Recall, and Confusion Matrix.
